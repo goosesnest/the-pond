@@ -1,3 +1,1 @@
-Adding data
-
-Adding more data
+Removing all the data
